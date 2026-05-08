@@ -1,0 +1,5 @@
+export { default as HubPage } from './HubPage'
+export { default as CreateBucketPage } from './CreateBucketPage'
+export { default as CreateKnowledgeBasePage } from './CreateKnowledgeBasePage'
+export { default as CreateCodebasePage } from './CreateCodebasePage'
+export { default as CreatePolicyPage } from './CreatePolicyPage'
